@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod 111 hello
+=======
+chmod ugo+x hello
+>>>>>>> 68b6e7f6ff29bd11001db63341b39a50dfcaf7f8
